@@ -1,0 +1,22 @@
+# Core data stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Market data (Yahoo Finance - Indian & global tickers)
+yfinance>=0.2.40
+
+# Machine learning
+scikit-learn>=1.3
+xgboost>=2.0
+
+# Survival analysis (Kaplan-Meier, Cox regression)
+lifelines>=0.27
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook runtime (pre-installed on Google Colab)
+ipython>=8.0
+jupyter>=1.0
